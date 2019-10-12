@@ -23,10 +23,6 @@ class MyDocument extends Document {
         <body>
           <Main />
           <NextScript />
-          <script src='/static/libs/babel-polyfill/polyfill.min.js'></script>
-          <script src='/static/libs/jquery/jquery.slim.min.js'></script>
-          <script src='/static/libs/popper/popper.min.js'></script>
-          <script src='/static/libs/bootstrap/bootstrap.min.js'></script>
         </body>
       </Html>
     );
